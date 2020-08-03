@@ -56,3 +56,6 @@ body {
 
 .modal-body {
   background: #D1C4E9; }
+
+.carouselButton {
+  z-index: 1; }
